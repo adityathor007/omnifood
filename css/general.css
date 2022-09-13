@@ -208,7 +208,7 @@ body {
 
 *:focus {
   outline: none;
-  box-shadow: 0 0 0 0.9rem rgba(230, 125, 34, 0.3);
+  box-shadow: 0 0 0 0.4rem rgba(235, 162, 97, 0.366);
 }
 
 /* HELPER/SETTING SECTION  */
