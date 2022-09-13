@@ -27,8 +27,8 @@ btnNavEl.addEventListener("click", function () {
   headerEl.classList.toggle("nav-open");
 });
 
-///////////////////////////////////////////////////////////
-// Smooth scrolling animation
+///////////////////////////////////////////////////////////  
+//Smooth scrolling animation
 
 const allLinks = document.querySelectorAll("a:link");
 
